@@ -5472,3 +5472,27 @@ INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:08:17] "GET /static/css/main.css HT
 INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:08:17] "GET /static/css/style.css HTTP/1.1" 200 -
 INFO:root:HTTP Error 500: Internal Server Error
 INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:08:39] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:36:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:36:13] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:36:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:HTTP Error 500: Internal Server Error
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:36:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:37:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:37:26] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:37:26] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:HTTP Error 500: Internal Server Error
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:37:36] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:38:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:38:14] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:38:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:39:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:39:50] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:39:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:39:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:39:55] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:39:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:HTTP Error 500: Internal Server Error
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:40:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:41:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:41:38] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Oct/2023 13:41:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
